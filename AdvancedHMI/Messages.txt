@@ -1,0 +1,7 @@
+﻿0,Default colors
+1,Black back - Blue Front,Black,Blue
+2,Red back - Green Front,Red,Green
+3,Green back - Blue Front,Green,Blue
+4,Blue back - Red Front,Blue,Red
+5,Red back - Green front,Red,Green
+6,Blue back - Green Front,Blue,Green
